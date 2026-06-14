@@ -1,2 +1,59 @@
-# 5a65ebe6-startup-fundraising-vc-lead
-Stop wasting hours manually sourcing VC emails or using generic contact forms that generate cold leads — this plugin turns every visitor into a prequalified investor lead with a single, fundraising-optimized form.  The Startup Fundraising &amp; VC Lead Generation Form Builder solves the disconnect between your website and your fundraising pipeline by l
+=== Startup Fundraising & VC Lead Generation Form Builder WordPress Plugin ===
+Contributors: digitalforge
+Requires at least: 5.8
+Tested up to: 6.5
+Stable tag: 1.0.0
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
+Multi-step forms, conditional logic, and CRM integration designed for Startup Fundraising & VC businesses. Higher conversion than generic form plugins.
+
+== Description ==
+
+Multi-step forms, conditional logic, and CRM integration designed for Startup Fundraising & VC businesses. Higher conversion than generic form plugins.
+
+**Features:**
+
+* Core functionality
+
+== Installation ==
+
+1. Upload the plugin folder to `/wp-content/plugins/`
+2. Activate via WordPress admin > Plugins
+3. Configure via Settings > Startup Fundraising & VC Lead Generation Form Builder WordPress Plugin
+
+== Changelog ==
+
+= 1.0.0 =
+* Initial release
+
+== Upgrade Notice ==
+
+= 1.0.0 =
+Initial release.
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core functionality | Yes | Yes |
+| Basic settings | Yes | Yes |
+| Standard widgets | Yes | Yes |
+| Advanced features | - | Yes |
+| Priority support | - | Yes |
+| Custom post types | - | Yes |
+| API access | - | Yes |
+| White-label option | - | Yes |
+| Multisite support | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/dRmbJ112D9Mw2hi9rKcZd2x)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/dRmbJ112D9Mw2hi9rKcZd2x)
+
